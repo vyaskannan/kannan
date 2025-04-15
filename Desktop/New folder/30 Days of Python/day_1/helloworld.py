@@ -1,0 +1,18 @@
+a = 3
+b = 4
+print(a + b)
+print(a * b)    
+print(a - b)
+print(a / b)
+print(a // b)
+print(a % b)    
+print(a ** b)
+print('vyas')
+print('India')
+print(type(10))
+print(type(9.8))
+print(type('3.14'))
+print(type(4-4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type('vyas'))
+print(type('India'))
